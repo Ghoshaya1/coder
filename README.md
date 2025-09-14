@@ -1,2 +1,2 @@
 # coder
-self hosted development environment for developers
+self hosted development environment for developers template
